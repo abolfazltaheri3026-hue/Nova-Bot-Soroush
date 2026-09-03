@@ -1,0 +1,5 @@
+requests>=2.31.0
+sseclient-py>=1.8.0
+python-dotenv>=1.0.0
+qrcode[pil]>=7.4.2
+Pillow>=10.0.0
